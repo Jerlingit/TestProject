@@ -11,15 +11,12 @@ public class Test1 {
 	public static void test1() {	
 		System.out.println("Test1 completed");
 	}
-	
 	public static void test2() {	
 		System.out.println("Test2 completed");
 	}
-	
 	public static void test3() {	
 		System.out.println("Test3 completed");
 	}
-	
 	public static void test4() {	
 		System.out.println("Test4 completed");
 	}
