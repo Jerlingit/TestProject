@@ -20,8 +20,15 @@ public class Test1 {
 		System.out.println("Test3 completed");
 	}
 	
-	
 	public static void test4() {	
 		System.out.println("Test4 completed");
 	}
+	
+	public static void test5() {	
+		System.out.println("Test5 completed");
+	}
+	
+	
+	
+	
 }
