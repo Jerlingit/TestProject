@@ -27,6 +27,10 @@ public class Test1 {
 		System.out.println("Test5 completed");
 	}
 	
+	public static void test() {	
+		System.out.println("Test5 completed");
+	}
+	
 	
 	
 	
